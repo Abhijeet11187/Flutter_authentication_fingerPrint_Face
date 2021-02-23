@@ -1,6 +1,6 @@
 # local_auth_demo
 
-A new Flutter project.
+Flutter version 1.22.4
 
 ## Getting Started
 
